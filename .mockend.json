@@ -15,7 +15,7 @@
     "uid": { "int": [1] },
     "userrole": { "string": ["admin"]},
     "userrole": { "message": ["login success"]},
-  }
+  },
   "Login": {
     "code": { "int": [200] },
     "msg": { "string": ["success"] },

@@ -20,7 +20,7 @@
     "code": { "int": [200] },
     "msg": { "string": ["success"] },
     "data": {
-      "belongsTo": "User",
+      "belongsTo": "User"
     }
   }
 }

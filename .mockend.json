@@ -11,4 +11,7 @@
       "belongsTo": "Post"
     }
   }
+  "Login": {
+    "code": { "int": 200 }
+  }
 }
